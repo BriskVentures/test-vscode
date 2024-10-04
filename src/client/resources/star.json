@@ -1,0 +1,11 @@
+{
+  "name": "Star",
+  "uri": "http://example.com/star",
+  "prefix": "star",
+  "types": [
+    {
+      "name": "Star",
+      "superClass": ["bpmn:FlowNode"]
+    }
+  ]
+}
